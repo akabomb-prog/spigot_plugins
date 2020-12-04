@@ -1,1 +1,2 @@
-# spigot_plugins
+# Spigot plugins
+Plugins made for Spigot.
