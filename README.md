@@ -1,2 +1,2 @@
 # Spigot plugins
-Plugins made for Spigot.
+Various fun plugins made for Spigot.
